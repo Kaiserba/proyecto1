@@ -149,6 +149,7 @@ div .social {
   .card__index img {
       width: 100%; 
       min-height: 700px;
+      max-height: 740px;
       
       
   }
@@ -216,19 +217,21 @@ div .social {
 }
 
 
-.foto__parrafo1{
+
+
+.foto__parrafo{
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     color: #ffffff; 
-    font-size: 23px; 
-    font-weight: 500; 
-    width: 1000px;
+    font-size: 18px; 
+
     text-align: center; 
-    background:rgba(94, 93, 79, 0.8) ; 
+    background:rgba(94, 93, 79, 0.8) ;
+
     overflow: hidden; 
-    padding: 30px;
-    margin: 70px auto 100px;
+    padding: 10px; 
     border-radius: 35px 0px 35px 0px; 
-    border: 2px solid #caa658;
+    border: 2px solid #cecdca;
+    margin-left: 10px;
 
 }
 
@@ -307,7 +310,7 @@ div .social {
  
     padding: 10px; 
     border-radius: 35px 0px 35px 0px; 
-    border: 2px solid #caa658;
+    border: 2px solid #b8b6b1;
 
 }
 
